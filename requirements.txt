@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+streamlit
+jupyter
+watchdog
+torch
+torchvision
