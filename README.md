@@ -11,7 +11,6 @@ First you must install and run [Ollama](https://ollama.ai/) on your supported de
 
 ### Clone repo
 ```
-
 $ git clone https://github.com/dustyfresh/ollama-streamlit-chat.git
 $ cd ollama-streamlit-chat/
 ```
@@ -19,7 +18,6 @@ $ cd ollama-streamlit-chat/
 ### Install python dependencies and models
 
 ```
-# Install python dependencies
 $ virtualenv -p python3 venv && source venv/bin/activate
 $ pip install -r requirements.txt
 $ for model in $(cat models.txt); do ollama pull $model; done
