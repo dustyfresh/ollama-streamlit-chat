@@ -37,3 +37,8 @@ $ streamlit run --server.address 127.0.0.1 chat.py
 ```
 
 You should now be able to access the chat at [http://127.0.0.1:8501](http://127.0.0.1:8501)
+
+## Further Reading
+
+- [https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+- [https://github.com/jmorganca/ollama/blob/main/docs/api.md](https://github.com/jmorganca/ollama/blob/main/docs/api.md)
